@@ -13,4 +13,4 @@ Welcome to my GitHub Profile !
 - Type down your query :keyboard: 
 - Remember to include code/error logs :bug:
 - Click the green button in bottom right :cowboy_hat_face: 
-- I will be replying mostly in weekends :smiley:
+- I will reply mostly in weekends :smiley:
