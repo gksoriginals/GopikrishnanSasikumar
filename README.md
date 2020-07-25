@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-Welcome to my GitHub Profile !
-
+### Hi, I am GKS
 
 - 🔭 I’m currently working on [DeepLi](https://github.com/Nysa-clan/DeepLI)
 - 📫 How to reach me: send a mail to gks@tinkerhub.org
