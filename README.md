@@ -1,8 +1,8 @@
 ## Hi, I am GKS
+I am a machine learning engineer @ [FullContact](https://fullcontact,com) and running [projects initiative](https://github.com/tinkerhub-org) @ [TinkerHub Foundation](https://tinkerhub.org)
 
 - 🔭 I’m currently working on [DeepLi](https://github.com/Nysa-clan/DeepLI)
 - 📫 How to reach me: send a mail to gks@tinkerhub.org
-- ⚡ My friends call me GKS
 
 ## 💬 Ask me about Machine Learning, Python and building tech communities
 1. Go to the [oracle cave](https://github.com/GopikrishnanSasikumar/GopikrishnanSasikumar/issues/new) :crystal_ball:
