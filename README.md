@@ -1,7 +1,7 @@
 ## Hi, I am GKS
-I am currently a machine learning engineer at [FullContact](https://fullcontact,com) and running the [projects initiative](https://github.com/tinkerhub-org) for [TinkerHub Foundation](https://tinkerhub.org)
+I'm currently a machine learning engineer at [FullContact](https://fullcontact,com) and running the [projects initiative](https://github.com/tinkerhub-org) for [TinkerHub Foundation](https://tinkerhub.org)
 
-- 🔭 I’m currently working on [DeepLi](https://github.com/Nysa-clan/DeepLI)
+- 🔭 My current open-source project is [DeepLi](https://github.com/Nysa-clan/DeepLI)
 - 📫 How to reach me: send a mail to gks@tinkerhub.org
 
 ## 💬 Ask me about Machine Learning, Python and building tech communities
